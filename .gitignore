@@ -1,4 +1,5 @@
 venv/
+data_processing/
 testdata.csv
 errorlog.txt
 bestfitLine.txt
